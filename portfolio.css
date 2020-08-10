@@ -713,10 +713,8 @@ body{
 }
 
 .portfolio img{
-    width: 130%;
+    width: 100%;
     height: auto;
-    padding-right: 12rem;
-    justify-content: center;
 }
 
 .portfolio:hover{
@@ -896,7 +894,7 @@ hr{
     }
 
     .portfolio img{
-        width: 150%;
+        width: 100%;
         height: auto;
         /* padding-right: 12rem; */
         justify-content: center;
@@ -906,7 +904,6 @@ hr{
         width: auto;
         height: auto;
         justify-content: center;
-        margin-left: 1rem;
     }
 
 }

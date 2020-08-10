@@ -1,3 +1,8 @@
+AOS.init({
+    easing: 'ease-out-back',
+	duration: 1000
+});
+
 /*!
  * smooth-scroll v16.1.0
  * Animate scrolling to anchor links
