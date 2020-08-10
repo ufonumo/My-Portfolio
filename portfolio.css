@@ -217,8 +217,6 @@ body{
 .portfolio{
   
     margin-top: 4rem;
-    /* -webkit-box-shadow: 0 1.5rem 4rem rgba(0, 0, 0, 0.4);
-            box-shadow: 0 1.5rem 4rem rgba(0, 0, 0, 0.4); */
     border-radius: 2px;
     position: relative;
     z-index: 2;
@@ -321,30 +319,9 @@ body{
     
 }
 
-
-
 .footer-box .frame{
     width: 100%;
 }
-
-/* .footer-box .form-control{
-    box-shadow: none !important;
-    border: none;
-    border-radius: 2;
-    margin-top: 25px;
-    max-width: 250px;
-}
-
-.footer-box .btn-primary{
-    box-shadow: none !important;
-    border: none;
-    border-radius: 2;
-    margin-top:30px ;
-    background-image: linear-gradient(to right bottom,
-    rgba(127, 213, 112, 0.801),
-    rgba(39, 179, 133, 0.801) );
-
-} */
 
 hr{
     background-color: white;
@@ -450,7 +427,6 @@ hr{
         width: auto;
         height: auto;
         justify-content: center;
-        /* margin-left: 1rem; */
     }
 
     .footer .footer-box span{
@@ -464,12 +440,9 @@ hr{
     .about-me{
         padding-top: 10%;
         height: auto;
-        /* clip-path: polygon(0 0, 100% 0, 100% 65vh, 0 80%); */
         clip-path: polygon(0 0, 100% 0, 100% 90%, 0 100%) ;
         padding-bottom: 5rem;
     }
-
-  
 }
 
 
